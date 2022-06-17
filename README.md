@@ -1,8 +1,10 @@
 # BClub_WebTasks
 
 1. "fitworks.html" file - Main home page file of the website 
+
      "styles.css" - corresponding css file of "fitworks.html" file
 2. "equ.html" - File for the EQUIPMENT PAGE 
+
      "styles1.css" - corresponding css file of "equ.html" file
      (Javascript has been used within equ.html file by script tag)
 

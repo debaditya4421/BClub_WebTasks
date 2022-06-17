@@ -1,0 +1,23 @@
+
+#navbar ul{
+    margin-left: 19vw ;
+}
+#sec1{
+    height: 52vh;
+    margin-top: 2vw;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    background: url('https://images.pexels.com/photos/2907578/pexels-photo-2907578.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1') no-repeat center center/cover;
+    background-color: aqua;
+    font-size: 3vw;
+    font-weight: bold;
+}
+.col h3{
+    font-size: 2vw;
+}
+.desc p{
+    text-align: center;
+    font-size: 2vw;
+}

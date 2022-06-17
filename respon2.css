@@ -1,0 +1,77 @@
+
+#navbar ul{
+    margin-left: 14vw ;
+}
+#sec1{
+    height: 45vh;
+    margin-top: 2vw;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    background: url('https://images.pexels.com/photos/2907578/pexels-photo-2907578.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1') no-repeat center center/cover;
+    background-color: aqua;
+    font-size: 3vw;
+    font-weight: bold;
+}
+.prd{
+    margin: 2vh 2vw;
+    width: 320px;
+    height:395px;
+    border: 4px solid rgb(147, 141, 141);
+    border-radius: 10px;
+    padding: 1vh 2vw;
+    cursor: pointer;
+}
+.posts{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.t{
+    margin-bottom: 4px ;
+}
+#company img{
+    height: 45px;
+    margin: 2px 5px;
+}
+.desc p{
+    text-align: center;
+    font-size: 2.35vw;
+    font-weight: bold;
+    color: rgb(57, 108, 43);
+}
+
+.prd{
+    margin: 2vh 2vw;
+    width: 80vw;
+    height:338px;
+    border: 4px solid rgb(147, 141, 141);
+    border-radius: 10px;
+    padding: 1vh 2vw;
+    cursor: pointer;
+}
+.cap{
+    color: orange;
+    text-align: left;
+    padding-left: 30px;
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    border: 2px solid brown;
+    margin-right: 40vw;
+    background-color: bisque;
+}
+.col h3{
+    font-size: 2vw;
+}
+#Feedback h1{
+    font-size: 5vw;
+}
+#Feedback h2{
+    font-size: 2.5vw;
+}
+/* .pro h4{
+    font-size: ;
+} */

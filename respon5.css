@@ -1,0 +1,29 @@
+.cap{
+    color: orange;
+    text-align: left;
+    padding-left: 30px;
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    border: 2px solid brown;
+    margin-right: 25vw;
+    background-color: bisque;
+}
+#navbar ul{
+    margin-left: 7vw ;
+}
+#company img{
+    height: 40px;
+    margin: 2px 5px;
+}
+#Feedback{
+    margin-top: 35px;
+    padding-top: 15px;
+    margin-bottom: 35px;
+    padding-bottom: 40px;
+    background: url('fdb.jfif')no-repeat center center/cover;
+}
+.desc p{
+    text-align: center;
+    font-size: 2.9vw;
+}
